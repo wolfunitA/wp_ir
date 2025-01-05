@@ -14,7 +14,7 @@ send_request() {
 cat temp_logs.txt >> logs-ir.txt
 cat temp_logs.txt
 echo .
-  sleep 120   ## temporisation de 120 secondes : a ajuster pour ne pas se faire bannir
+  sleep 180   ## temporisation de 180 secondes : a ajuster pour ne pas se faire bannir
 }
 
 # Lire chaque mot du fichier
