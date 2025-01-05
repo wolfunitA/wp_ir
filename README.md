@@ -18,6 +18,8 @@ Pour lancer le script :
 
 Laissez mijoter !!
 
+Vous pouvez voir les logs dans le fichier *logs-ir.txt*
+
 Lorsque la sortie dans les logs est différente de :
 ```
   <value><struct>
@@ -27,7 +29,6 @@ Lorsque la sortie dans les logs est différente de :
 ```
 C'est que vous avez trouvé le mdp du compte !
 
-Vous pouvez voir les logs dans le fichier logs-ir.txt
 
 Bientôt une version python
 
