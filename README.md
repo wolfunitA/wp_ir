@@ -18,6 +18,15 @@ Pour lancer le script :
 
 Laissez mijoter !!
 
+Lorsque la sortie dans les logs est différente de :
+```
+  <value><struct>
+  <member><name>faultCode</name><value><int>403</int></value></member>
+  <member><name>faultString</name><value><string>Incorrect username or password.</string></value></member>
+</struct></value>
+```
+C'est que vous avez trouvé le mdp du compte !
+
 Vous pouvez voir les logs dans le fichier logs-ir.txt
 
 Bientôt une version python
