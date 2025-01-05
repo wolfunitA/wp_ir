@@ -5,7 +5,7 @@ wordlist="./dic01.txt"
 
 utilisateur="laurentbrayard"
 xml_blocks=""
-batch_size=300 # max 300
+batch_size=360 # max 360
 count=0
 
 send_request() {
