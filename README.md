@@ -1,4 +1,4 @@
-## IR wolfed
+## IR-press wolfed 🇺🇦 ⚡
 *For linux*
 
 Télécharger le script bash [ir-press.sh](https://github.com/wolfunitA/wp_ir/blob/main/ir-press.sh)
@@ -34,3 +34,5 @@ Laissez mijoter !!
 Vous pouvez voir les logs dans le fichier logs-ir.txt
 
 Bientôt une version python
+
+🇺🇦 ⚡- 2025 - Wolf-A
