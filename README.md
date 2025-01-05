@@ -1,6 +1,9 @@
 ## IR wolfed
+*For linux*
 
-Télécharger le script : 
+Télécharger le script bash [ir-press.sh](https://github.com/wolfunitA/wp_ir/blob/main/ir-press.sh)
+
+En mode terminal avec les commandes suivantes : 
 ```
 wget https://github.com/wolfunitA/wp_ir/blob/main/ir-press.sh
 ou
@@ -13,7 +16,8 @@ chmod +x ir-press.sh
 ```
 
 Placer votre dictionnaire dans le même répertoire que le script et donner lui le nom suivant : dic01.txt
-Si vous n'avez pas de dictionnaire, vous pouvez télécharger un extrait ici :
+Si vous n'avez pas de dictionnaire, vous pouvez télécharger un extrait ici : [dictionnaire 01](https://github.com/wolfunitA/wp_ir/blob/main/dic01.txt) 
+ou avec les commandes suivantes :
 ```
 wget https://github.com/wolfunitA/wp_ir/blob/main/dic01.txt
 ou
